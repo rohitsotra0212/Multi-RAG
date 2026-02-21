@@ -1,0 +1,15 @@
+#ipykernel
+python-dotenv
+langchain
+langchain_core
+pandas
+jupyter
+pypdf
+langchain_community
+langchain_text_splitters
+langchain-openai
+faiss-cpu
+beautifulsoup4
+openai>=1.2.3,<2.0.0
+streamlit
+langsmith
